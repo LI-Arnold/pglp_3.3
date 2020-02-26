@@ -1,0 +1,1 @@
+1) Cette solution ne respecte pas LSP car l'ajout d'une nouvelle classe modifie la méthode de la classe mère
